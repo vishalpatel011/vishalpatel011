@@ -96,6 +96,5 @@
 
 <br clear="both">
 
-<img align="right" src="https://profile-counter.glitch.me/vishalpatel011/count.svg?"  />
 
 ###
