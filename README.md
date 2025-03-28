@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="200" src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=ecf05e4720elts8gl4ufw2xwzo3gnberh45nqe80m8wic4zt&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="right" height="150" src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=ecf05e4720elts8gl4ufw2xwzo3gnberh45nqe80m8wic4zt&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
@@ -59,6 +59,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="_blank">
