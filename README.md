@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=ecf05e4720elts8gl4ufw2xwzo3gnberh45nqe80m8wic4zt&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="right" height="160" src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=ecf05e4720elts8gl4ufw2xwzo3gnberh45nqe80m8wic4zt&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
@@ -49,11 +49,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
 </div>
 
 ###
