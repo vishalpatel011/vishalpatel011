@@ -2,9 +2,9 @@
 
 ###
 
-<p align="left">🚀 Software Developer | MERN Stack | Open Source Enthusiast
-💡 Passionate about building scalable web apps & APIs
-🎯 Currently exploring Java - SpringBoot & contributing to open source</p>
+<p align="left">🚀 Software Developer | MERN Stack | Open Source Enthusiast</p>
+<p align="left">💡 Passionate about building scalable web apps & APIs</p>
+<p align="left">🎯 Currently exploring Java - SpringBoot & contributing to open source</p>
 
 ###
 
