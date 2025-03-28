@@ -1,8 +1,10 @@
-<h2 align="left">Hi 👋 My name is Vishal Patel</h2>
+<h2 align="left">Hi 👋 I'm Vishal</h2>
 
 ###
 
-<p align="left">I am a Full Stack Developer</p>
+<p align="left">🚀 Software Developer | MERN Stack | Open Source Enthusiast
+💡 Passionate about building scalable web apps & APIs
+🎯 Currently exploring Java - SpringBoot & contributing to open source</p>
 
 ###
 
