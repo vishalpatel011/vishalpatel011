@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=ecf05e4720elts8gl4ufw2xwzo3gnberh45nqe80m8wic4zt&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="right" height="200" src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=ecf05e4720elts8gl4ufw2xwzo3gnberh45nqe80m8wic4zt&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
@@ -60,14 +60,9 @@
 
 ###
 
-<br clear="both">
-
 <div align="left">
-  <a href="patelv254@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/infiniter011/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="https://x.com/Infiniter011" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
