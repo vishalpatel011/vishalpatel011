@@ -63,7 +63,7 @@
 ###
 
 <div align="left">
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="_blank">
+  <a href="mailto:patelv254@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://x.com/Infiniter011" target="_blank">
